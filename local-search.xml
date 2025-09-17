@@ -4,6 +4,33 @@
   
   
   <entry>
+    <title>离散数学</title>
+    <link href="/2025/09/17/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/"/>
+    <url>/2025/09/17/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/</url>
+    
+    <content type="html"><![CDATA[<h1 id="离散数学第一章：命题逻辑基本概念"><a href="#离散数学第一章：命题逻辑基本概念" class="headerlink" title="离散数学第一章：命题逻辑基本概念"></a>离散数学第一章：命题逻辑基本概念</h1><p>本文提供离散数学第一章的学习资料下载，包括讲义和练习题。</p><h2 id="文件下载"><a href="#文件下载" class="headerlink" title="文件下载"></a>文件下载</h2><div class="file-download-container">    <div class="file-card">        <div class="file-icon">📄</div>        <div class="file-info">            <h3>命题逻辑基本概念</h3>            <p>PDF文档 · 2.3MB</p>        </div>        <div class="file-actions">            <a href="/downloads/ch1-命题逻辑基本概念-jn.pdf" class="download-btn" download>下载</a>            <a href="/downloads/ch1-命题逻辑基本概念-jn.pdf" class="preview-btn" target="_blank">预览</a>        </div>    </div></div><h2 id="更多资源"><a href="#更多资源" class="headerlink" title="更多资源"></a>更多资源</h2><p>后续章节资料将陆续更新，请关注本页面。</p><style>.file-download-container {    max-width: 800px;    margin: 2rem auto;    padding: 1rem;}.file-card {    display: flex;    align-items: center;    background: #f9f9f9;    border-radius: 10px;    padding: 1.5rem;    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);    transition: transform 0.3s ease;}.file-card:hover {    transform: translateY(-5px);    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);}.file-icon {    font-size: 2.5rem;    margin-right: 1.5rem;}.file-info {    flex-grow: 1;}.file-info h3 {    margin: 0 0 0.5rem 0;    color: #2c3e50;}.file-info p {    margin: 0;    color: #7f8c8d;}.file-actions {    display: flex;    gap: 1rem;}.download-btn, .preview-btn {    padding: 0.5rem 1rem;    border-radius: 5px;    text-decoration: none;    font-weight: 500;    transition: background-color 0.3s;}.download-btn {    background-color: #3498db;    color: white;}.download-btn:hover {    background-color: #2980b9;}.preview-btn {    background-color: #e74c3c;    color: white;}.preview-btn:hover {    background-color: #c0392b;}@media (max-width: 600px) {    .file-card {        flex-direction: column;        text-align: center;    }        .file-icon {        margin-right: 0;        margin-bottom: 1rem;    }        .file-actions {        margin-top: 1rem;    }}</style>]]></content>
+    
+    
+    <categories>
+      
+      <category>离散数学</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>知识梳理</tag>
+      
+      <tag>学习笔记</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2025/09/17/hello-world/"/>
     <url>/2025/09/17/hello-world/</url>
